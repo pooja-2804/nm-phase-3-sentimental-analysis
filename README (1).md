@@ -25,7 +25,7 @@ This project aims to classify emotions (e.g., happy, sad, angry, fear) from soci
    ```
 
 ## Team Members
-- **K.Thaslima Sultana** – Team Lead, Preprocessing, Deployment
+- **K.Thaslima Sulthana** – Team Lead, Preprocessing, Deployment
 - **M.Pooja** – EDA, Feature Engineering
 - **S.Safeya Sherien** – Model Building (ML & DL)
 - **P.Srimathi** – Evaluation, Documentation & UI
